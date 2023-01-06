@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "SourceSansPro";
+    font-style: normal;
+    font-weight: normal;
+    src: url("fonts/SourceSansPro/SourceSansPro-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: "SourceSansPro";
+    font-style: italic;
+    font-weight: normal;
+    src: url("fonts/SourceSansPro/SourceSansPro-It.otf") format("opentype");
+}
+@font-face {
+    font-family: "SourceSansPro";
+    font-style: normal;
+    font-weight: bold;
+    src: url("fonts/SourceSansPro/SourceSansPro-Bold.otf") format("opentype");
+}
+@font-face {
+    font-family: "SourceSansPro";
+    font-style: italic;
+    font-weight: bold;
+    src: url("fonts/SourceSansPro/SourceSansPro-BoldIt.otf") format("opentype");
+}
+@font-face {
+    font-family: "SourceSansPro";
+    font-style: normal;
+    font-weight: 200;
+    src: url("fonts/SourceSansPro/SourceSansPro-Light.otf") format("opentype");
+}
+@font-face {
+    font-family: "SourceSansPro";
+    font-style: normal;
+    font-weight: 600;
+    src: url("fonts/SourceSansPro/SourceSansPro-Semibold.otf") format("opentype");
+}
+@font-face {
+    font-family: "SourceSansPro";
+    font-style: italic;
+    font-weight: 600;
+    src: url("fonts/SourceSansPro/SourceSansPro-SemiboldIt.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'pacificoregular';
+    src: url("fonts/pacifico/pacifico-webfont.eot");
+    src: url("fonts/pacifico/pacifico-webfont.eot?#iefix") format('embedded-opentype'),
+         url("fonts/pacifico/pacifico-webfont.woff2") format('woff2'),
+         url("fonts/pacifico/pacifico-webfont.woff") format('woff'),
+         url("fonts/pacifico/pacifico-webfont.ttf") format('truetype'),
+         url("fonts/pacifico/pacifico-webfont.svg#pacificoregular") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
